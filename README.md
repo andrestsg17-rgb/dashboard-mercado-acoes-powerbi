@@ -8,7 +8,7 @@ Dashboard interativo desenvolvido no **Power BI**, como parte de um curso, para 
 
 ## 🖼️ Preview do Dashboard
 
-<!-- c:\Users\André\Desktop\Dashboard-mercado-acoes.png -->
+![Preview do Dashboard](imagens/Dashboard-mercado-acoes.png)
 
 ---
 
