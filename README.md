@@ -86,9 +86,6 @@ Análise do período completo (23/02/2022 a 23/02/2023):
 - DAX (Data Analysis Expressions)
 - Modelagem de dados (Star Schema simplificado)
 
-## 📁 Estrutura sugerida do repositório
-
-
 ## 👤 Autor
 
 Projeto desenvolvido durante curso de Power BI — [André Araujo].
